@@ -7,5 +7,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Alumno {
     Integer id;
-    Integer persona_id;
+    Integer personaId;
 }
